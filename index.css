@@ -13,7 +13,7 @@ Copyright: &copy; 2012 - 2014. Log Camp SV, Inc.
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
 <!-- Insert your own website title content in the line below -->
-<title> All about Minecraft</title>
+<title>Simple All about Minecraft</title>
     
 <!-- Insert the stylesheet link to your Google Fonts below -->
 <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Open+Sans:300italic,400,300,700' rel='stylesheet' type='text/css'>
@@ -57,7 +57,7 @@ Section Description: This section contains the main menu for the single page web
   <!-- Change the text of the link content below -->
   <a class="item" href="#section-one">About Minecraft</a>
   <!-- Change the text of the link content below -->
-  <a class="item" href="#section-two">Pictures</a></a>
+  <a class="item" href="#section-two">Awaiting Addition</a>
   <a class="item" href="#media">Videos</a>
   <!-- Add your own name in the link content below -->    
   <a class="item" href="#about"> Jacob</a>
@@ -124,9 +124,9 @@ Section One Instructions
         <i class="uk-icon-button icon star large"></i>
       </div>  
       <div class="ui segment center aligned">
-        <h1 class="ui large header uk-align-left">Mineraft World Generation</h1>
-        <p class="uk-align-left">Minecraft can in theory generate infinite amounts of land but in practice it glitches out long before that.</p>
-        <i class="uk-icon-button icon star large"></i>
+        <h1 class="ui large header uk-align-left"></h1>
+        <p class="uk-align-left">Minecraft world Generation</p>
+        <i class="uk-icon-button icon star large">Minecraft can in theory generate infinite amounts of land but in practice it glitches out long before that.</i>
       </div> 
     </div> 
     <div class="column">
@@ -137,7 +137,9 @@ Section One Instructions
       </div>  
       <div class="ui segment center aligned">
         <h1 class="ui large header">Minecraft Community</h1>
-        <p>This is the first paragraph about your website topic.</p>
+        <p>Minecraft is one of the biggest player invested games with a massive Video, toy, Modding and
+Texture pack community.
+</p>
         <i class="uk-icon-button icon star large"></i>
       </div>
       </div>
